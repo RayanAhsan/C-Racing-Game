@@ -1,4 +1,4 @@
-# Racing Game – Real-Time OOP Simulator
+# Racing Game 
 
 A high-performance, real-time racing game built in **C**, designed to showcase object-oriented programming, physics simulations, and optimized game loop mechanics.
 
